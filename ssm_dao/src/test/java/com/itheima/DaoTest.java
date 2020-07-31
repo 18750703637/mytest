@@ -6,7 +6,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import java.util.List;
-
+//测试dao
 public class DaoTest {
     public static void main(String[] args) {
         ApplicationContext applicationContext =new ClassPathXmlApplicationContext("classpath:spring-mybatis.xml");
